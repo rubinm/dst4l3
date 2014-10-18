@@ -1,7 +1,6 @@
 #dst4l3
 
 10/18/2014
-======
 
 Kyle Daigle demo - using GitHub
 
